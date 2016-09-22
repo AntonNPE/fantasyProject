@@ -58,6 +58,9 @@
     <tr>
 
         <th><a href="fullTeam.jsp"/>FullTeam</th>
+        <th><a href="TeamCreate.jsp"/>TeamCreate</th>
+        <th><a href="fullTeam.jsp"/>TeamView</th>
+        <th><a href="fullTeam.jsp"/>PlayerView</th>
     </tr>
 </table>
 
