@@ -22,7 +22,7 @@
         font-weight: bold;
     }
     th {
-        padding: 45px 80px;
+        padding: 55px 80px;
         color: #3D3511;
         border-bottom: 1px solid #F4EEE8;
         border-top-left-radius: 10px;
