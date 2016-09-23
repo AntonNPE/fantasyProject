@@ -17,6 +17,9 @@ public class SimpleFabric {
             case "teamName":
                 return new TeamCreateCommand();
 
+            case "fullTeamCreate":
+                return new FullTeamCreateCommand();
+
             default:
                 return new GetFullTeamCommand();
         }
